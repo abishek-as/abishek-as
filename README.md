@@ -1,9 +1,11 @@
 <!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p> -->
-<p align="center">
+<!-- <p align="center"> -->
+
 ![WELCOME](/images/MorganGaming.gif "Welcome")
-</p>
+
+<!-- </p> -->
 
 ```js
 import SoftwareDeveloper from "Abishek A S";
