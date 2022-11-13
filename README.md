@@ -46,22 +46,6 @@ Hello, I am full stack developer, working on multiple open source projects, main
 ---
 
 <div align="center">
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2>
-<div style="display: flex; align-items: center; justify-content: center;">
-
-[![](https://github-readme-stats.vercel.app/api?username=abishek-as&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/abishek-as)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=abishek-as&theme=radical&hide_border=true)](https://github.com/abishek-as)
-
-<!-- ![abishek-as github stats](https://github-readme-stats.vercel.app/api?username=abishek-as&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![abishek-as github streak](https://github-readme-streak-stats.herokuapp.com/?user=abishek-as&theme=radical&include_all_commits=true&count_private=true) -->
-
-</div>
-</div>
-
- <div>
-
-<div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>
 
 <h3>Back-end & Front-end</h3>
@@ -135,4 +119,18 @@ Hello, I am full stack developer, working on multiple open source projects, main
 
 </div>
 
-<small><strong>\*</strong> Studying and improving technology skills.</small>
+<div align="center">
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2>
+<div style="display: flex; align-items: center; justify-content: center;">
+
+[![](https://github-readme-stats.vercel.app/api?username=abishek-as&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/abishek-as)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=abishek-as&theme=radical&hide_border=true)](https://github.com/abishek-as)
+
+<!-- ![abishek-as github stats](https://github-readme-stats.vercel.app/api?username=abishek-as&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![abishek-as github streak](https://github-readme-streak-stats.herokuapp.com/?user=abishek-as&theme=radical&include_all_commits=true&count_private=true) -->
+
+</div>
+</div>
+
+ <div>
