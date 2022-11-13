@@ -1,5 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p> -->
+<p align="center">
+ <video width="320" height="240" autoplay muted>
+  <source src="./Morgan Gaming.mp4" type="video/mp4">
+</video>
 </p>
 
 ```js
