@@ -36,9 +36,9 @@ class Skills extends SoftwareDeveloper {
 
 <!-- <div align="center"> -->
 
-## SKILLS :hammer_and_wrench:
+## Skills :hammer_and_wrench:
 
-### PROGRAMMING
+### Programming
 
 #### Proficient
 
@@ -63,14 +63,14 @@ class Skills extends SoftwareDeveloper {
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### LIBRARIES / FRAMEWORKS
+### Libraries / Frameworks
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### TOOLS / PLATFORMS
+### Tools / Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
