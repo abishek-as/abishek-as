@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @AbishekSankar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!---
-AbishekSankar/AbishekSankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```js
+import SoftwareDeveloper from "Abishek A S";
+
+class Bio extends SoftwareDeveloper {
+	name = "Abishek A S";
+	title = "Software Engineer";
+	company = "Stryker | Intern";
+	location = "Gurugram | India";
+}
+
+class Skills extends SoftwareDeveloper {
+	languages = ["JavaScript", "PHP"];
+	databases = ["MySQL", "MongoDB", "PostgreSQL"];
+	frameworks = ["React", "React Native", "Angular", "GraphQL"];
+}
+```
+
+---
