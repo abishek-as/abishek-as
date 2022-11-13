@@ -26,19 +26,13 @@ class Skills extends SoftwareDeveloper {
 
 <div align="center">
 
-## About
-
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
-
----
-
 ## Contact
 
 <a href="https://github.com/abishek-as">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> <a href="https://www.linkedin.com/in/abishek-sankar">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:abisheka.s2018@vitstudent.ac.in">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a> <a href="tel:+918825352645 ">![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
 </a>
 
----
+<!-- --- -->
 
 <!-- <div align="center"> -->
 
@@ -88,7 +82,7 @@ Hello, I am full stack developer, working on multiple open source projects, main
 
 <!-- <div align="center"> -->
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2>
-<div style="display: flex; align-items: center; justify-content: center;">
+<!-- <div style="display: flex; align-items: center; justify-content: center;"> -->
 
 [![](https://github-readme-stats.vercel.app/api?username=abishek-as&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/abishek-as)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=abishek-as&theme=radical&hide_border=true)](https://github.com/abishek-as)
