@@ -1,11 +1,17 @@
 <!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
  <video width="320" height="240" autoplay muted>
   <source src="./Morgan Gaming.mp4" type="video/mp4">
 </video>
-</p>
+</p> -->
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="./Morgan Gaming.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ```js
 import SoftwareDeveloper from "Abishek A S";
