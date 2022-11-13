@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p> -->
 <p align="center">
-![WELCOME](./MorganGaming.gif "Welcome")
+![WELCOME](/images/MorganGaming.gif "Welcome")
 </p>
 
 ```js
