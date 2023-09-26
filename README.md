@@ -2,7 +2,7 @@
 
 <a href="https://github.com/abishek-as">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> <a href="https://www.linkedin.com/in/abishek-as">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:abishek.codes@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 </a>
-</a> <a href="https://github.com/abishek-as/abishek-as/resume.pdf">![Resume](https://img.shields.io/badge/RESUME-20B2AA?style=for-the-badge&)
+</a> <a href="https://drive.google.com/file/d/1B4cOgnNPX6aJOY4jzYIEdKVuNfx8Cr9f/view">![Resume](https://img.shields.io/badge/RESUME-20B2AA?style=for-the-badge&)
 </a>
 
 ```js
