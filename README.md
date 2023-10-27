@@ -21,6 +21,7 @@ class Skills extends SoftwareDeveloper {
     Languages = [
         "Python",
         "JavaScript",
+        "TypeScript"
         "C++",
         "C",
         "SQL",
