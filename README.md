@@ -1,9 +1,9 @@
 # Contact
-<a href="https://drive.google.com/file/d/1B4cOgnNPX6aJOY4jzYIEdKVuNfx8Cr9f/view">![Resume](https://img.shields.io/badge/RESUME-20B2AA?style=for-the-badge&)
+<a href="https://drive.google.com/file/d/1B4cOgnNPX6aJOY4jzYIEdKVuNfx8Cr9f/view" target="_blank" >![Resume](https://img.shields.io/badge/RESUME-20B2AA?style=for-the-badge&)
 </a>
-<a href="https://abishek-as.github.io/portfolio/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-<a href="https://www.linkedin.com/in/abishek-as">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:abishek.codes@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+<a href="https://abishek-as.github.io/portfolio/" target="_blank" >![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+<a href="https://www.linkedin.com/in/abishek-as" target="_blank" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:abishek.codes@outlook.com" target="_blank" >![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 </a>
 
 
