@@ -4,7 +4,7 @@
 </a>
 <a href="http://abishek-as-portfolio.vercel.app/" target="_blank" >![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=#FF7139)</a>
 <a href="https://www.linkedin.com/in/abishek-as" target="_blank" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:abishek.codes@outlook.com" target="_blank" >![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+<a href="mailto:abishek.sankar@protonmail.com" target="_blank" >![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 </a>
 
 ```python
@@ -13,17 +13,17 @@ from Abishek_A_S import SoftwareEngineer
 class Bio(SoftwareEngineer):
     name = "Abishek A S"
     title = "Software Engineer"
-    company_and_role = "Maersk Training | Software Engineer Intern"
+    company_and_role = "Maersk Training | Junior Business Analyst"
     location = "Chennai, India"
-    email = "abishek.codes@outlook.com"
+    email = "abishek.sankar@protonmail.com"
     contact = "+918825352645"
-    hobbies = ["Cricket", "Stargazing", "Cinema", "Badminton", "Coding", "Games"]
     previous_experience = {
         "company": "Stryker",
         "role": "R&D Intern",
         "duration": "Sep 2022 – July 2023",
         "location": "Gurugram, India",
     }
+    hobbies = ["Cricket", "Stargazing", "Cinema", "Badminton", "Coding", "Games"]
 
 
 class Skills(SoftwareEngineer):
@@ -59,6 +59,5 @@ class Skills(SoftwareEngineer):
         "Object-Oriented Programming (OOP)",
         "Responsive Web Design",
         "Test-Driven Development (TDD)",
-        "Behaviour-Driven Development (BDD)",
     ]
 ```
